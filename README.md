@@ -11,7 +11,7 @@ Everything runs in the browser. There is no backend; the group setup is remember
 
 ## Run it
 
-Requires Node.js 20 or newer.
+Requires Node.js 22 (pinned in `.node-version`).
 
 ```bash
 npm install
